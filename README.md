@@ -1,3 +1,3 @@
 # portfolio-flexbox
  
-https://vkveka.github.io/portfolio/
+https://vkveka.github.io/portfolio-flexbox/
